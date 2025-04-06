@@ -79,7 +79,7 @@
 
 ---
 
-### ✨ Fun Badges (animated vibe)
+### ✨ Fun Badges
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+developer+from+Brazil;Loves+automation+%F0%9F%9A%80;Fan+of+DevOps+and+cloud;Always+learning+new+things+%F0%9F%93%9A" />
