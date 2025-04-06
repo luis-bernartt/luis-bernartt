@@ -53,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,bash,html,css,docker,kubernetes,postgres,nodejs,react,git,linux,vscode" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
