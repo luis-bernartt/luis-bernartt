@@ -50,13 +50,8 @@
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode" />
-    <img src="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode" />
 </p>
----
 
 ### 📊 GitHub Stats
 
