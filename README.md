@@ -3,7 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luis-bernartt&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/luis-bernartt?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/luis-bernartt?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-%F0%9F%92%BB-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prefect-Expert-green?style=flat-square" />
 </p>
 
 ---
@@ -13,7 +15,7 @@
 - 🔧 Currently working on an **automation panel**
 - 📚 Learning **DevOps, Python and TypeScript**
 - 🤝 Looking for help with **Prefect and DevOps**
-- 💬 Ask me about **Prefect**
+- 💬 Ask me about **Prefect workflows & orchestration**
 - 📫 Reach me at **luis_bernartt@icloud.com**
 
 ---
@@ -22,21 +24,32 @@
 
 <p align="left">
   <a href="https://twitter.com/ltdarwin" target="_blank">
-    <img src="https://img.shields.io/badge/-@ltdarwin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/luís henrique dallelaste bernartt" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/luis_bernartt" target="_blank">
-    <img src="https://img.shields.io/badge/-@luis_bernartt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 Programming Experience
 
-<p align="left">
+- 🐍 **Python** – Automation, APIs, data pipelines (Prefect ❤️)
+- 🐳 **Docker & Kubernetes** – Containerization and orchestration
+- 🔄 **CI/CD** – GitHub Actions, GitLab CI
+- 💾 **Databases** – PostgreSQL, MySQL, SQLite
+- 💻 **Languages** – TypeScript, Bash, C, C#, HTML, CSS
+- ⚙️ **Tools** – VS Code, PyCharm, Linux, Git, Node.js, React
+
+---
+
+### ⚒️ Languages & Tools
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css" />
@@ -66,10 +79,11 @@
 
 ---
 
-### 📅 Latest Activity
+### ✨ Fun Badges (animated vibe)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+developer+from+Brazil;Loves+automation+%F0%9F%9A%80;Fan+of+DevOps+and+cloud;Always+learning+new+things+%F0%9F%93%9A" />
+</p>
 
 ---
 
