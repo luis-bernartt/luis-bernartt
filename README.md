@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🔧 Currently working on an **automation panel**
+- 🔧 Currently working on an **Automation Panel**
 - 📚 Learning **DevOps, Python and TypeScript**
 - 🤝 Looking for help with **Prefect and DevOps**
 - 💬 Ask me about **Prefect workflows & orchestration**
