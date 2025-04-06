@@ -26,10 +26,10 @@
   <a href="https://twitter.com/ltdarwin" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/luís henrique dallelaste bernartt" target="_blank">
+  <a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-dallelaste-bernartt-957811357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/luis_bernartt" target="_blank">
+  <a href="https://www.instagram.com/luis.bernartt?igsh=aWhjd3RiODJyZmFu&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
