@@ -1,28 +1,80 @@
-<h1 align="center">Hi 👋, I'm Luís Henrique Bernartt!</h1>
-<h3 align="center">A passionate backend developer from Brazil.</h3>
+<h1 align="center">Hi 👋, I'm Luís Henrique Bernartt</h1>
+<h3 align="center">A passionate backend developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on **automation panel.**
-
-- 🌱 I’m currently learning **DevOps, Python and TypeScript**
-
-- 🤝 I’m looking for help with **Prefect and DevOps**
-
-- 💬 Ask me about **Prefect**
-
-- 📫 How to reach me **luis_bernartt@icloud.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ltdarwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ltdarwin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luís henrique dallelaste bernartt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luís henrique dallelaste bernartt" height="30" width="40" /></a>
-<a href="https://instagram.com/luis_bernartt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis_bernartt" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luis-bernartt&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/luis-bernartt?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luis-bernartt&show_icons=true&theme=dark&locale=en&layout=compact" alt="luis-bernartt" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luis-bernartt&show_icons=true&theme=dark&locale=en" alt="luis-bernartt" /></p>
+- 🔧 Currently working on an **automation panel**
+- 📚 Learning **DevOps, Python and TypeScript**
+- 🤝 Looking for help with **Prefect and DevOps**
+- 💬 Ask me about **Prefect**
+- 📫 Reach me at **luis_bernartt@icloud.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luis-bernartt&theme=dark" alt="luis-bernartt" /></p>
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/ltdarwin" target="_blank">
+    <img src="https://img.shields.io/badge/-@ltdarwin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/luís henrique dallelaste bernartt" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/luis_bernartt" target="_blank">
+    <img src="https://img.shields.io/badge/-@luis_bernartt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css" />
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luis-bernartt&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=luis-bernartt&show_icons=true&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luis-bernartt&show_icons=true" />
+  </picture>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luis-bernartt&theme=dark&hide_border=true" />
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-bernartt&layout=compact&theme=dark" />
+</p>
+
+---
+
+### 📅 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### ✍️ Dynamic Bio
+
+<!--START_SECTION:bio-->
+I'm a backend developer from Brazil, passionate about automation, cloud infrastructure, and elegant code. Currently building an automation panel and diving deeper into DevOps culture.
+<!--END_SECTION:bio-->
