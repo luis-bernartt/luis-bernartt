@@ -38,7 +38,7 @@
 
 ### 🧠 Programming Experience
 
-- 🐍 **Python** – Automation, APIs, data pipelines (Prefect ❤️)
+- 🐍 **Python** – Automation, APIs, data pipelines
 - 🐳 **Docker & Kubernetes** – Containerization and orchestration
 - 🔄 **CI/CD** – GitHub Actions, GitLab CI
 - 💾 **Databases** – PostgreSQL, MySQL, SQLite
