@@ -50,7 +50,7 @@
 ### ⚒️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,bash,html,css,docker,kubernetes,postgres,nodejs,react,git,linux,vscode" />
 </p>
 
 ### 📊 GitHub Stats
