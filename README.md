@@ -51,12 +51,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css" />
-    <img src="https://skillicons.dev/icons?i=python,typescript,docker,kubernetes,aws,postgres,mysql,sqlite,react,bash,c,cs,html,css" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,bash,c,cs,html,css,docker,kubernetes,aws,postgres,mysql,sqlite,nodejs,react,git,linux,vscode" />
   </picture>
 </p>
-
 ---
 
 ### 📊 GitHub Stats
